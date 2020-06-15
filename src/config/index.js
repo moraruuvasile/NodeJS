@@ -4,6 +4,6 @@ export default {
   // "port": 3005,
   // "mongoUrl": "mongodb://localhost:27017/chat-api",
   "port": process.env.PORT,
-  "mongoUrl": "mongodb+srv://user1:123456az@cluster0-klesb.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "mongoUrl": "mongodb://vasile:123456az@ds129051.mlab.com:29051/heroku_70z61l78",
   "bodyLimit": "100kb"
 }
